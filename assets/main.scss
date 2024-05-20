@@ -3,3 +3,37 @@
 ---
 
 @import 'modern-resume-theme';
+
+h3 {
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+@media (min-width: 768px) {
+    .container {
+        width:750px
+    }
+    .col-lg-4 {
+        width: 44%;
+    }
+    .col-lg-8 {
+        width: 56%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container {
+        width:900px
+    }
+    .col-lg-4 {
+        width: 50%;
+    }
+    .col-lg-8 {
+        width: 50%;
+    }
+}
+
+.profile-img {
+    width: 150px;
+    height: 150px;
+}
