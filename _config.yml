@@ -80,7 +80,7 @@ content:
 
       - **Korea Advanced Institute of Science and Technology ([KAIST](https://kaist.ac.kr/))** <br>
       Master Student in Artificial Intelligence <br>
-      Mar. 2022 - Present
+      Sep. 2022 - Present
 
       - **Korea Advanced Institute of Science and Technology ([KAIST](https://kaist.ac.kr/))** <br>
       B.S. in Computer Science and Electrical Engineering (double major) <br>
@@ -122,6 +122,11 @@ content:
       - **Conference Organizer**, National Electronics Major College Student Conference (2020)
       - **Student Council Member**, KAIST Department of Electrical Engineering (2018-2019)
       - **Volunteer Service**: 200+ hours of community service (2015-Present)
+
+  - title: Professional Services
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - **Journal Reviewer**: Progress in Engineering Science'24
 
 # Footer
 footer_show_references: false
