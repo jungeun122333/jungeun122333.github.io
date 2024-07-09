@@ -52,16 +52,19 @@ google_analytics_4: "G-3BD1RQXQHM"
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a Master's student at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr/) (MLILAB) at [KAIST](https://kaist.ac.kr/), advised by [Prof. Eunho Yang](https://scholar.google.com/citations?hl=ko&user=UWO1mloAAAAJ). I received my B.S. in Computer Science and Electrical Engineering from KAIST in 2022.
+  I am a Master's student at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr/) (MLILAB) at [KAIST](https://kaist.ac.kr/), advised by [Prof. Eunho Yang](https://scholar.google.com/citations?hl=ko&user=UWO1mloAAAAJ). I received my B.S. in Computer Science and Electrical Engineering from KAIST in 2022, advised by [Prof. Alice Oh](https://aliceoh9.github.io/) and [Prof. In So Kweon](http://rcv.kaist.ac.kr/index.php?mid=rcv_faculty).
 
-  My research mainly focuses on Computer Vision, especially on (i) 3D, and (ii) Vision-Language Models.
+  
+  My ultimate goal is to contribute to society through AI, with a particular interest in technologies that assist the socially disadvantaged. To achieve this goal, my research mainly focuses on Computer Vision, especially on (i) 3D, and (ii) Vision-Language Models.
 
 content:
   - title: News
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - **Jun 2024**: Successfully organized the [KAIST exploreCSR](https://kaistexplorecsr.github.io/risingstars2024/) workshop, sponsored by Google, as a workshop organizer!
       - **Apr 2024**: I will be visiting [Carnegie Mellon University](https://www.cmu.edu/) as a Korean government-sponsored student starting this August. Looking forward to collaborating on projects!
       - **Feb 2024**: [UVI-Net](https://arxiv.org/abs/2404.01464) is accepted to CVPR 2024.
+      - **Sep 2023**: Achieved 1st Place in the Korea Railroad Research Institute AI Competition.
 
   - title: Publications
     layout: text
@@ -116,7 +119,7 @@ content:
   - title: Honors & Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Conference Organizer**, KAIST-Google exploreCSR (2024)
+      - **Workshop Organizer**, KAIST-Google exploreCSR (2024)
       - **1st Place**, Korea Railroad Research Institute AI Competition (2023)
       - **Leadership Mileage Certificate**, KAIST Global Leadership Center (2022)
       - **Conference Organizer**, National Electronics Major College Student Conference (2020)
