@@ -61,7 +61,7 @@ content:
   - title: News
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Jun 2024**: Successfully organized the [KAIST exploreCSR](https://kaistexplorecsr.github.io/risingstars2024/) workshop, sponsored by Google, as a workshop organizer!
+      - **Jun 2024**: Successfully organized the [KAIST exploreCSR](https://kaistexplorecsr.github.io/risingstars2024/) workshop, sponsored by [Google](https://research.google/programs-and-events/explorecsr/), as a workshop organizer!
       - **Apr 2024**: I will be visiting [Carnegie Mellon University](https://www.cmu.edu/) as a Korean government-sponsored student starting this August. Looking forward to collaborating on projects!
       - **Feb 2024**: [UVI-Net](https://arxiv.org/abs/2404.01464) is accepted to CVPR 2024.
       - **Sep 2023**: Achieved 1st Place in the Korea Railroad Research Institute AI Competition.
