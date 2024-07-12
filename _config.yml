@@ -92,12 +92,12 @@ content:
   - title: Research Experiences
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **[Naver Cloud](https://www.navercloudcorp.com/)** <br>
+      - **[Naver Cloud](https://www.navercloudcorp.com/)** Computer Vision Team <br>
       Research Intern <br>
       Sep. 2023 - Dec. 2023
 
       - **[Samsung Electronics](https://www.samsung.com/sec/aboutsamsung/home/)** <br>
-      Research Engineer with Scholarship <br>
+      Undergraduate Research Engineer with Scholarship <br>
       Dec. 2020 - Aug. 2022
 
       - **KAIST Machine Learning and Intelligence Lab ([MLILAB](https://mli.kaist.ac.kr/))** <br>
