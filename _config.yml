@@ -53,7 +53,6 @@ google_analytics_4: "G-3BD1RQXQHM"
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a Master's student at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr/) (MLILAB) at [KAIST](https://kaist.ac.kr/), advised by [Prof. Eunho Yang](https://scholar.google.com/citations?hl=ko&user=UWO1mloAAAAJ). I received my B.S. in Computer Science and Electrical Engineering from KAIST in 2022, advised by [Prof. Alice Oh](https://aliceoh9.github.io/) and [Prof. In So Kweon](http://rcv.kaist.ac.kr/index.php?mid=rcv_faculty).
-
   
   My ultimate goal is to contribute to society through AI, with a particular interest in technologies that assist the socially disadvantaged. To achieve this goal, my research mainly focuses on Computer Vision, especially on (i) 3D, and (ii) Vision-Language Models.
 
@@ -61,6 +60,7 @@ content:
   - title: News
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - **Aug 2024**: Settled in Pittsburgh, PA, and started my visiting student program at [Carnegie Mellon University](https://www.cmu.edu/)!
       - **Jun 2024**: Successfully organized the [KAIST exploreCSR](https://kaistexplorecsr.github.io/risingstars2024/) workshop, sponsored by [Google](https://research.google/programs-and-events/explorecsr/), as a workshop organizer!
       - **Apr 2024**: I will be visiting [Carnegie Mellon University](https://www.cmu.edu/) as a Korean government-sponsored student starting this August. Looking forward to collaborating on projects!
       - **Feb 2024**: [UVI-Net](https://arxiv.org/abs/2404.01464) is accepted to CVPR 2024.
@@ -77,7 +77,7 @@ content:
   - title: Education
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **[Scheduled] Carnegie Mellon University ([CMU](https://www.cmu.edu/))** <br>
+      - **Carnegie Mellon University ([CMU](https://www.cmu.edu/))** <br>
       Visiting Student in Computer Science, fully funded by the Korean Government <br>
       Aug. 2024 - Feb. 2025
 
