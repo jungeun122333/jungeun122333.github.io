@@ -62,6 +62,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       - **Aug 2024**: Settled in Pittsburgh, PA, and started my visiting student program at [Carnegie Mellon University](https://www.cmu.edu/)!
       - **Jun 2024**: Successfully organized the [KAIST exploreCSR](https://kaistexplorecsr.github.io/risingstars2024/) workshop, sponsored by [Google](https://research.google/programs-and-events/explorecsr/), as a workshop organizer!
+      - **Jun 2024**: I am attending CVPR in person. Looking forward to seeing you in Seattle!
       - **Apr 2024**: I will be visiting [Carnegie Mellon University](https://www.cmu.edu/) as a Korean government-sponsored student starting this August. Looking forward to collaborating on projects!
       - **Feb 2024**: [UVI-Net](https://arxiv.org/abs/2404.01464) is accepted to CVPR 2024.
       - **Sep 2023**: Achieved 1st Place in the Korea Railroad Research Institute AI Competition.
@@ -92,7 +93,7 @@ content:
   - title: Research Experiences
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **[Naver Cloud](https://www.navercloudcorp.com/)** Computer Vision Team <br>
+      - **[Naver Cloud](https://www.navercloudcorp.com/) Computer Vision Team** <br>
       Research Intern <br>
       Sep. 2023 - Dec. 2023
 
@@ -119,17 +120,30 @@ content:
   - title: Honors & Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Workshop Organizer**, KAIST-Google exploreCSR (2024)
+      - **Workshop Organizer**, KAIST-Google exploreCSR \[[Link](https://research.google/programs-and-events/explorecsr/)\] (2024)
       - **1st Place**, Korea Railroad Research Institute AI Competition (2023)
       - **Leadership Mileage Certificate**, KAIST Global Leadership Center (2022)
       - **Conference Organizer**, National Electronics Major College Student Conference (2020)
       - **Student Council Member**, KAIST Department of Electrical Engineering (2018-2019)
       - **Volunteer Service**: 200+ hours of community service (2015-Present)
 
+  - title: Teaching Experiences
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - **Main Instructor**, AI Competency Enhancement Program for Industrial Professionals at [HD Hyundai](http://www.hd-hyundai.com/) (2023)
+      - **Teaching Assistant**, Meachine Learning for AI at KAIST (2023)
+      - **Main Instructor**, KAIST Global School for the Gifted Students \[[Link](https://gifted.kaist.ac.kr/main/main.action)\] (2020-2021)
+      - **Coding Assistant**, AI Track at [Elice](https://elice.training/) (2020-2021)
+      - **Career Instructor**, Korea Foundation for the Advancement of Science and Creativity ([KOSAC](https://www.kosac.re.kr/eng)) (2019-2020)
+      - **Main Instructor**, LG Love Multicultural School \[[Link](https://lgglobalschool.co.kr/)\] (2019-2021)
+      - **Main Instructor**, KAIST Cyber Education for Gifted Students \[[Link](https://talented.kaist.ac.kr:8443/)\] (2019)
+      - **Teaching Assistant**, Calculus at KAIST (2019)
+      - **Main Instructor**, Daejeon National Museum of Korea (2018)
+
   - title: Professional Services
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Journal Reviewer**: Progress in Engineering Science'24
+      - **Journal Reviewer**: Progress in Engineering Science'24, Computers in Biology and Medicine'24, Computer Methods and Programs in Biomedicine'24
 
 # Footer
 footer_show_references: false
