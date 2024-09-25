@@ -132,13 +132,9 @@ content:
     content: | # this will include new lines to allow paragraphs
       - **Main Instructor**, AI Competency Enhancement Program for Industrial Professionals at [HD Hyundai](http://www.hd-hyundai.com/) (2023)
       - **Teaching Assistant**, Meachine Learning for AI at KAIST (2023)
-      - **Main Instructor**, KAIST Global School for the Gifted Students \[[Link](https://gifted.kaist.ac.kr/main/main.action)\] (2020-2021)
       - **Coding Assistant**, AI Track at [Elice](https://elice.training/) (2020-2021)
       - **Career Instructor**, Korea Foundation for the Advancement of Science and Creativity ([KOSAC](https://www.kosac.re.kr/eng)) (2019-2020)
-      - **Main Instructor**, LG Love Multicultural School \[[Link](https://lgglobalschool.co.kr/)\] (2019-2021)
-      - **Main Instructor**, KAIST Cyber Education for Gifted Students \[[Link](https://talented.kaist.ac.kr:8443/)\] (2019)
       - **Teaching Assistant**, Calculus at KAIST (2019)
-      - **Main Instructor**, Daejeon National Museum of Korea (2018)
 
   - title: Professional Services
     layout: text
