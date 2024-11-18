@@ -54,7 +54,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a Master's student at [Machine Learning and Intelligence Lab](https://mli.kaist.ac.kr/) (MLILAB) at [KAIST](https://kaist.ac.kr/), advised by [Prof. Eunho Yang](https://scholar.google.com/citations?hl=ko&user=UWO1mloAAAAJ). I received my B.S. in Computer Science and Electrical Engineering from KAIST in 2022, advised by [Prof. Alice Oh](https://aliceoh9.github.io/) and [Prof. In So Kweon](http://rcv.kaist.ac.kr/index.php?mid=rcv_faculty). 
   
-  During my stay in [Carnegie Mellon University](https://www.cmu.edu/), I'm working closely with Prof. [Kris Kitani](https://kriskitani.github.io/) and Dr. [Rohan Choudhury](https://rccchoudhury.github.io/).
+  During my stay in [Carnegie Mellon University](https://www.cmu.edu/), I'm working closely with [Prof. Kris Kitani](https://kriskitani.github.io/) and [Dr. Rohan Choudhury](https://rccchoudhury.github.io/).
   
   My ultimate goal is to contribute to society through AI, with a particular interest in technologies that assist the socially disadvantaged. To achieve this goal, my research mainly focuses on Computer Vision, especially on (i) 3D, and (ii) Vision-Language Models.
 
