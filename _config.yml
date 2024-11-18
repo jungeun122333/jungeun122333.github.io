@@ -63,7 +63,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - **Nov 2024**: I gave a talk at the [KAIST-Google exploreCSR](https://kaistexplorecsr.github.io/2024-researchjourney) workshop as a student speaker.
-      - **Aug 2024**: Settled in Pittsburgh, PA, and started my visiting student program at [Carnegie Mellon University](https://www.cmu.edu/)!
+      - **Aug 2024**: Settled in Pittsburgh, PA, and started my visiting scholar program at [Carnegie Mellon University](https://www.cmu.edu/)!
       - **Jun 2024**: Successfully organized the [KAIST exploreCSR](https://kaistexplorecsr.github.io/risingstars2024/) workshop, sponsored by [Google](https://research.google/programs-and-events/explorecsr/), as a workshop organizer!
       - **Jun 2024**: I am attending CVPR in person. Looking forward to seeing you in Seattle!
       - **Apr 2024**: I will be visiting [Carnegie Mellon University](https://www.cmu.edu/) as a Korean government-sponsored student starting this August. Looking forward to collaborating on projects!
@@ -82,7 +82,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - **Carnegie Mellon University ([CMU](https://www.cmu.edu/))** <br>
-      Visiting Student in Computer Science, fully funded by the Korean Government <br>
+      Visiting Scholar in Computer Science, fully funded by the Korean Government <br>
       Aug. 2024 - Feb. 2025
 
       - **Korea Advanced Institute of Science and Technology ([KAIST](https://kaist.ac.kr/))** <br>
@@ -124,7 +124,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - **Student Speaker**, KAIST-Google exploreCSR (2024)
-      - **Korean Government Scholarship**, Scholarship for the Visiting Student Program at Carnegie Mellon University (2024)
+      - **Korean Government Scholarship**, Scholarship for the Visiting Scholar Program at Carnegie Mellon University (2024)
       - **Workshop Organizer**, KAIST-Google exploreCSR \[[Link](https://research.google/programs-and-events/explorecsr/)\] (2024)
       - **1st Place**, Korea Railroad Research Institute AI Competition (2023)
       - **KAIST Government Scholarship**, Scholarship for the Master's Degree (2022-2024)
